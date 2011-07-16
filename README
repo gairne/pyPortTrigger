@@ -1,0 +1,5 @@
+Python Port Triggering
+
+Copyright 2011  Matthew Mole <code@gairne.co.uk>
+
+Port triggering allows a port to be forwarded to a computer, AFTER the computer has made an outgoing connection on that port. Port forwarding is often used for servers on a local network, but most servers only bind to a port - listening for incoming packets. This program will make that initial outgoing connection
